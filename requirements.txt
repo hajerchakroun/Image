@@ -1,0 +1,9 @@
+CPython == 3.8.3
+IPython == 7.16.1
+
+pandas == 1.0.5
+numpy ==1.18.5
+cv2 == 4.4.0
+sklearn.cluster == 0.23.1
+skimage == 0.16.2
+matplotlib == 3.2.2
